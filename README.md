@@ -1,6 +1,3 @@
-<div style="text-align:center">
-<img src="https://steinbergmedia.github.io/vst3_doc/gfx/vst3_logo.jpg" alt="VST 3 SDK" /></div>
-
 # Welcome to VST SDK 3.7.x
 
 ## Table Of Contents
@@ -21,11 +18,6 @@
 - VST 3 Implementation Helper Classes
 - AAX, AUv3 and AU Wrappers
 - VST 3 plug-ins Examples
-
-The full **VST 3 SDK** is available [here!](https://www.steinberg.net/en/company/developers.html). It contains:
-
-- VST 3 plug-in Test Host Application/Validator,
-- the **Steinberg VST 3 Plug-In SDK Licensing Agreement** that you have to sign if you want to develop or host **VST 3** plug-ins.
 
 <div id='200'/>
 
@@ -240,10 +232,3 @@ cmake --build . --config Release
 ## Contributing
 
 For bug reports and features requests, please visit the [VST Developer Forum](https://sdk.steinberg.net)
-
----
-<div id='700'/>
-
-## License & Usage guidelines
-
-More details are found at [www.steinberg.net/sdklicenses_vst3](http://www.steinberg.net/sdklicenses_vst3)
